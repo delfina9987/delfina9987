@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Delphine :)
+- 👋 Hi, I’m Delfina :)
 - 👀 I’m interested in soudtrack music, fantasy games and books
 - 🌱 I’m currently re-learning: C/C++, C#, R, Python, SQL, HTML, CSS
 - 🍒 I’m planning on learning: PHP, Java and more!
